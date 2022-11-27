@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/shrujandev/SysStatsPlus#readme",
   "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
     "systeminformation": "^5.14.4"
   }
 }
