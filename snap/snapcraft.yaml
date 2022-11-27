@@ -1,0 +1,16 @@
+name: sysstatplus
+version: git
+summary: Advanced system monitoring
+description: Cooler system monitoring with colors
+
+grade: stable
+conifnement: devmode
+
+apps:
+  sysstatplus:
+    command: sysstat
+
+parts:
+  sysstat:
+    plugin: nodejs
+    source: .
