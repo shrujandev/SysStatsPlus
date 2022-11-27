@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/shrujandev/SysStatsPlus/issues"
   },
-  "homepage": "https://github.com/shrujandev/SysStatsPlus#readme"
+  "homepage": "https://github.com/shrujandev/SysStatsPlus#readme",
+  "dependencies": {
+    "systeminformation": "^5.14.4"
+  }
 }
