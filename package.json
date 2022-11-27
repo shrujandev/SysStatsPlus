@@ -1,0 +1,22 @@
+{
+  "name": "sysstatsplus",
+  "version": "1.0.0",
+  "description": "This project is a prototype for a system tracker that can be used on all PCs running Linux. The project may be used by anybody interested in finding out more about their laptop and keeping track of its performance. Mainly for people in the IT field, or any field involving computers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrujandev/SysStatsPlus.git"
+  },
+  "keywords": [
+    "system"
+  ],
+  "author": "Shashank Shreyash Shrujan Siddharth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrujandev/SysStatsPlus/issues"
+  },
+  "homepage": "https://github.com/shrujandev/SysStatsPlus#readme"
+}
