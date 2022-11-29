@@ -22,6 +22,9 @@
   "dependencies": {
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.11.0",
+    "install": "^0.13.0",
+    "npm": "^9.1.2",
+    "react-scripts": "^2.1.8",
     "systeminformation": "^5.14.4"
   }
 }
